@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Manoel. This about what I'm doing! 👋
+
+- 🔭 I’m currently working on project aimed at storing data from CVILs in the State of Pernambuco!
+- 🌱 I’m currently learning Language CSharp
 
 <!--
 **manoelgeraldo/manoelgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
