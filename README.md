@@ -1,7 +1,7 @@
 ### Olá, sou Manoel. No momento estou...
 
 - 🔭 Trabalhando em um projeto voltado para armazenar dados de CVILs do Estado de Pernambuco!
-- 🌱 Apaixonado por CSharp
+- 🌱 Apaixonado por C#
 
 <!--
 **manoelgeraldo/manoelgeraldo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
