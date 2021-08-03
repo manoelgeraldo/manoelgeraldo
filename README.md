@@ -1,4 +1,4 @@
-### Olá, sou Manoel. No momento estou..! 👋
+### Olá, sou Manoel. No momento estou...
 
 - 🔭 Trabalhando em um projeto voltado para armazenar dados de CVILs do Estado de Pernambuco!
 - 🌱 Apaixonado por CSharp
