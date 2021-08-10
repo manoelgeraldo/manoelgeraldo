@@ -1,7 +1,8 @@
-### Olá 👋 tudo bem? Eu sou o Manoel Geraldo
+### Olá 👋 Seja Bem-vindo!
 
 - 🔭 Busco oportunidade como desenvolvedor .NET(C#), ASP.NET e Blazor
-- 🌱 Atualmente estou estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Sou estudando de Análise e Desenvolvimento de Sistemas
+- 👯 Atualmente desenvolvendo o <a href="https://github.com/manoelgeraldo/ProjetoGace" target="_blank">ProjetoGace</a>
 <div>
   <a href="https://github.com/manoelgeraldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoelgeraldo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
