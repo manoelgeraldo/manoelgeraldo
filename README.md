@@ -2,7 +2,7 @@
 
 - 🔭 Busco oportunidade como desenvolvedor .NET(C#), ASP.NET e Blazor
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 👯 Atualmente desenvolvendo o <a href="https://github.com/manoelgeraldo/ProjetoGace" target="_blank">ProjetoGace</a>
+- 👯 Atualmente responsável pelo projeto <a href="https://github.com/manoelgeraldo/ProjetoGace" target="_blank">ProjetoGace</a>
 
 <div>
   <a href="https://github.com/manoelgeraldo">
