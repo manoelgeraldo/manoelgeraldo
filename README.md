@@ -1,6 +1,6 @@
 ### Olá 👋 Seja Bem-vindo!
 
-- 🔭 Busco oportunidade como desenvolvedor .NET(C#), ASP.NET Core e Blazor
+- 🔭 Busco oportunidade como desenvolvedor .NET(C#), ASP.NET Core
 - 🌱 Sou estudante de Análise e Desenvolvimento de Sistemas
 - 👯 Atualmente responsável pelo projeto <a href="https://github.com/manoelgeraldo/ProjetoGace" target="_blank">ProjetoGace</a>
 
